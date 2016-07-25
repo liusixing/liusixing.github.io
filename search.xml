@@ -4,17 +4,16 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://yoursite.com/2016/07/24/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+      <title><![CDATA[价值评估的能力]]></title>
+      <url>http://yoursite.com/2016/07/24/postName/</url>
+      <content type="html"><![CDATA[<p>自由的人拥有独自选择的权利，然而决定这种权利是发挥正面价值还是负面价值的根本在于——价值评估的能力。<br>举个例子，当几件商品摆在你面前的时候，你可以清晰的认识到哪一件商品的价格是最高的，哪一件最不值钱。这种能力相信几乎每个人都可以自然的拥有，甚至并不需要刻意的锻炼，在人们逛商场时人们往往可以轻松的分辨昂贵和廉价的商品。其实确切的说这还并不能称得上是“价值评估”而是“价格评估”。</p>
+<p>我们在逛商场时的时候判断一件商品是否昂贵往往是通过它的品牌，质地，工艺等等很多不同的外在因素进行判断。几乎人人都知道，阿迪达斯专柜里的商品比361°专柜的东西更贵。这是价格高低的对比，然而对于价值呢？<br>当我们试图去比较这两个不同品牌的类似商品的价值的时候，事情会变得非常复杂。因为这个问题不再是简单的比较商品挂牌上价格栏里的数字大小了，也不是商品的成本价，最重要的问题在于对其进行价值评估的人。不同的人对同一件商品的价值进行评估是非常不一样的。对于消费水平低的人来说让他在一件361°的衣服和一件阿迪达斯的衣服中做选择的话他会选择前者，而对于高消费水平的人来说它更可能选择后者。消费水平低的人之所以不选择后者是因为他看淡了后者品牌所带来的价值，比如面子的价值。而消费水平高的人恰恰相反，他们认为衣服上印有的品牌标识所带来的价值是非常大的，是被他们认可、看中的。</p>
+<p>因为在商场里商家和顾客都是基于自愿最终达成交易，因此买的人一定是认为他买的东西价值高于或等于他所出的钱。而因为每位顾客评估价值的方式都不一样因此我们可以看到有人会花100元买件Polo衫，也有人愿意花400甚至更多。这时候我们就应该意识到，花400元买Polo衫的人一定在他的意识里认可并看中了那件Polo衫除了其作为Polo衫之外的价值。</p>
+<p>因此价值这东西并没有一个确切的标准进行衡量，每个人都有自己不同的标准。然而总有一些标准是更实用的，在那些评估标准里实实在在的价值更多，而不真实的价值更少。</p>
+<p>这个道理同样可以换用到人生的选择上，这和选择买100元的Polo衫还是400元的Polo衫是没有什么差别的，人生的选择同样是自由的，公平的，基于相互认可。唯一的不同在于买Polo衫可以两件都买，而对于人生的选择来说我们往往只能选择其中一个，比如选择了平庸，就不再可能拥有事业。因此人生的选择实际上更需要我们仔细的评估不同选择的价值，并选择其中价值最高的那一个。</p>
+<p>这又回到了之前的标准问题，我们需要一个什么样的标准。之所以有人会甘愿做一个“平庸”的人，是因为他看中了平庸给他人生带来的安逸舒适，不会有什么成就也不会生活的太苦，这看起来也没什么问题。事实也确实如此，前提是你确实分析的全面了。因为选择安逸舒适的代价可不只是有平庸，因为平庸还有平庸的代价。这个代价并不一定是你承受的起的，之所以有人选择了安逸舒适更大的原因是因为他并没有完全了这样选择的代价。当这些人真正意识到代价之大的时候往往已经来不及改正了，他们只能选择承受。</p>
+<p>彻底的看清确实很难，做为经验阅历尚浅的人，有些很多事情往往是不能完全依靠推理得来的。并且因为人的缺陷选择和判断中还会有很多不理性不受自己控制的因素。因此，我们需要高境界的人的指点和约束。这些可以来自老师，父母，甚至书籍。</p>
+<p>在这个基础上，我们也应该清晰的认识到一些事情，而不只是接受安排。我们需要知道自己真正需要的东西是什么，需要知道自己不想要的东西是什么。因为最终我们还是需要建立自己的价值评估标准的，带你认识到自己真正想获得的东西是尊重的时候就不会再选择那件400元的Polo衫，也才能理解为什么那些境界更高的人为什么会那样选择。</p>
 ]]></content>
     </entry>
     
